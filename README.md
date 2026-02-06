@@ -180,10 +180,6 @@ advisor-osc-qdrant     Up              127.0.0.1:10314->6333/tcp
 | **API 문서** | http://localhost:10311/docs | Swagger API 문서 |
 | **API 헬스체크** | http://localhost:10311/health | 서버 상태 확인 |
 
-**초기 관리자 계정:**
-- 사용자명: `admin`
-- 비밀번호: `admin1234`
-
 > 운영 환경에서는 반드시 관리자 비밀번호를 변경하세요!
 
 ---
